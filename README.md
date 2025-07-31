@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 김민준</h1>
 <h3 align="center">백엔드 개발자 지망생입니다.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wantaraiseapomeranian&label=Profile%20views&color=0e75b6&style=flat" alt="wantaraiseapomeranian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wantraiseapomeranian&label=Profile%20views&color=0e75b6&style=flat" alt="wantaraiseapomeranian" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
